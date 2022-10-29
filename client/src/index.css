@@ -47,12 +47,12 @@ body {
 }
 
 .container {
-  max-width: 166vh;
+  max-width: 66vh;
   margin: 1px auto;
   overflow: auto;
-  min-height: 500px;
+  min-height: 300px;
   border: 1px solid white;
-  padding: 1px;
+  padding: 20px;
   border-radius: 5px;
   background-color: #71717ee4;
 }
@@ -66,7 +66,7 @@ body {
 
 .btn {
   display: inline-block;
-  background: rgb(64, 186, 53);
+  background: black;
   color: white;
   border: none;
   padding: 10px 20px;
